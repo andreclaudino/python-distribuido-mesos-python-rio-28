@@ -13,7 +13,7 @@ certifi==2018.1.18
 chardet==3.0.4
 command-not-found==0.3
 -e git+git@bitbucket.org:tese/claudino-thesis.git@d77517567e2a112dc3555a99457476e16a64c72b#egg=conservative_polys
-cryptography==1.9
+cryptography==3.2
 cupshelpers==1.0
 decorator==4.2.1
 distro-info==0.17
